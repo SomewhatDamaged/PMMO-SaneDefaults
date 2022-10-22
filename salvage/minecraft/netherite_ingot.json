@@ -1,0 +1,14 @@
+{
+    "salvageMax": 1,
+    "baseChance": 0.0,
+    "maxChance": 0.3,
+    "chancePerLevel": {
+        "smithing": 0.0005
+    },
+    "levelReq": {
+        "smithing": 50
+    },
+    "xpPerItem": {
+        "smithing": 3000
+    }
+}
